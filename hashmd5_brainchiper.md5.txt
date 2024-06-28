@@ -1,0 +1,10 @@
+#######################################
+# Brain Chiper Ransomware Hash - MD5  #
+# Source : ID/SIRTII - BSSN	      #
+#######################################		
+
+9c5698924d4d1881efaf88651a304cb3
+448f1796fe8de02194b21c0715e0a5f6
+9cb96848386327410ca588b6cd5f6401
+deb2e0756d331362d57ad9fe408c4ff3
+eebb7935dfe2a521bd5253c7e4660fb4
